@@ -1,0 +1,15 @@
+
+.slider {
+  background: url('../img/mario-wallpaper.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+#pie-pagina {
+  background-color: #2A2A2A;
+  color: white;
+  text-align: center;
+padding-top: 0.5em;
+  padding-bottom:1em;;
+}
